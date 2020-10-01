@@ -52,9 +52,9 @@
 
 <br>
 
-<a href="https://github.com/Duui3111">
+<!--<a href="https://github.com/Duui3111">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duui3111&show_icons=true&theme=dark&line_height=27" alt="Duui's github stats"/>
-</a>
+</a> -->
 
 <br />
 <br />
