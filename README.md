@@ -46,9 +46,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duui3111&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<!--- <a href="https://github.com/Duui3111">
+<a href="https://github.com/Duui3111">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duui3111&theme=dark&hide_langs_below=1" />
-</a> --->
+</a>
 
 <br>
 
