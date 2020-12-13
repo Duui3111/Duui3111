@@ -59,8 +59,8 @@
 <br />
 <br />
 
-</a>
+<!-- </a>
 <a href="https://github.com/Duui3111/ux">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duui3111&repo=ux&theme=dark" />
-</a>
+</a> -->
 
