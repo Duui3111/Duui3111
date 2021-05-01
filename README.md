@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Duui3111&label=Views&color=blue&style=plastic" alt="Duui" /> </p>
-
+<---
 <!---
 <a href="https://twitter.com/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
