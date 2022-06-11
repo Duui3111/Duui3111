@@ -16,10 +16,11 @@
 <a href="https://github.com/Duui3111">
   <img align="left" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<!---
 <a href="https://www.youtube.com/channel/UCYvfm2YP2Q77WuRWCHHVYwQ">
   <img align="left" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-
+--->
 <br />
 <br />
 
